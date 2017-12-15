@@ -1,0 +1,17 @@
+{
+  "name": "movie-blog-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint": "^4.5.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "xml-js": "^1.5.2"
+  }
+}
