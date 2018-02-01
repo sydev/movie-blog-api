@@ -1,6 +1,6 @@
 {
   "name": "movie-blog-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "follow-redirects": "^1.4.1",
     "xml-js": "^1.5.2"
   }
 }
